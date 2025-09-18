@@ -1,5 +1,5 @@
 [Unit]
-Description=RustDesk
+Description=ITR24-RustDesk
 Requires=network.target
 After=systemd-user-sessions.service
 
